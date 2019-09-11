@@ -1,3 +1,8 @@
+# Capstone Project - The Battle of Neighborhoods (Week 2)
+Final Project Notebook located at:
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3632b614-29fc-40e4-a8cb-885105be4df3/view?access_token=9d392dcee51e10da13eeaf3d701b6de579ce5a811e14219de253d38be6cc1c22
+
+
 # github-example
 This repository is a demo of crating and setting up properly
 

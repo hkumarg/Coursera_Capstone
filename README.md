@@ -1,7 +1,11 @@
 Assignment IBM - Segmenting and Clustering Neighborhoods in Toronto - week 3
+\n
 Please go to the notebook link
-
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/f82af58e-9dc4-4872-9d94-09836a5ba6ed/view?access_token=61b9ae47ff799a922a5653a104715dc201c99449f36e1fcbfc5cc8475014969f
+
+
+\n
+\\n
 
 
 
